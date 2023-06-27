@@ -1,60 +1,70 @@
----
-layout: page
-title: Privacy Policy
-include_in_header: false
----
-
-**Last updated**  
-August 1 2019
-
 # Privacy Policy
-Submissive a when owing much far bawdy thanks impolitely alas overlaid one and this one chuckled darn on more due much misheard amused far far the much purposeful that wildebeest dalmatian and piranha bluebird this and much despite however much sincere nonsensical this paradoxically more.
 
-**Please note:** This is purely a dummy Privacy Policy that serves as an example for how you can use this app landing page generator. Please replace the contents with your own privacy policy.
+[RadioSpiral.net](https://radiospiral.net), in cooperation with [pemungkah.com](https://pemungkah.com), provides you with the iOS App "RadioSpiral". This page informs you of our policies regarding the collection, use and disclosure of Personal Information we receive from users of the App.
 
-<br>
+What data do we collect?
+How do we collect your data?
+How will we use your data?
+How do we store your data?
+Marketing
+What are your data protection rights?
+What are cookies?
+How do we use cookies?
+What types of cookies do we use?
+How to manage your cookies
+Privacy policies of other websites
+Changes to our privacy policy
+How to contact us
+How to contact the appropriate authorities
 
-## 1.0 Information We Collect
-Far near but lighted walking far oyster hello kneeled flung and roadrunner and more witless narrowly flexed brokenly blandly much in famous jeez obsessive that.
+## What data do we collect?
+Our Company collects the following data:
 
-### 1.1 Information from third parties
-- Ouch until smirked some some newt that at frustrating.
-- Nimbly handsomely fabulously python.
-- Alas informally taped when a dear some.
+ - Personally-identifying information (IP address, to allow us to stream music to you).
 
-### 1.2 Information you provide to us 
-Menacingly much walrus far together derisive falcon the toneless unceremoniously yet yikes a hung when because far drooled cast amused naughtily quiet hare a thickly more dogged drank more this dismounted since hence nakedly jeez rolled far gerbil the hey puerilely where vociferously struck insane much twitched instead some beneath then wiped dull snuffed far jeez nightingale bit goodness obscurely quit that much yet nefarious careless some concrete shrewdly gull closed this hugged aboard.
+## How do we collect your data?
+You directly provide us with the data we collect. We collect data and process data when you:
 
-<br>
+ - Connect to our music server(s) by running the app.
 
-## 2.0 What Personal Information we collect about you and how we collect it
-Where cut one reproachful alas ambiguous helpful hen raucous editorial underwrote dubiously therefore this boastfully or possessively oh modest amidst some opposite far wasp grew emu snickered some jeepers and circa much that *equitable* foul camel caudally oh opossum far dear met far much close hello beheld facetious far goodness tidily reindeer that kiwi thus crud that paid and by titilatingly hey falcon lemming or well approving sympathetically groundhog mongoose and deeply peaceful wow ouch far regally this and near and badly fatal blunt mischievously and and the blew.
+We do not receive your data indirectly from any other source, nor do we share it with any other services.
 
-### 2.1 Third Parties we collect information from
-Various remotely save this querulously explicitly one this and far congenially broad grew said or abhorrently haltered darn beheld panther shrank and one goldfish the more away as much different moth.
+## How do we store your data?
+Our Company securely stores your data in log files on our servers located in the UK. These servers are access-limited to the IT staff of RadioSpiral.
 
-| Third Party | What is it used for? |
-| :--- | :--- |
-| Falcon | Tidily reindeer that kiwi thus crud that paid and by titilatingly hey falcon lemming. |
-| Eagle | Juggled crud a however overslept vehemently kept indisputably anteater walked alas or into. |
+Our Company will keep your IP adress for one year or less. Once this time period has expired, we will delete your data by deleting the log files.
 
-<br>
+Marketing
 
-## 3.0 What rights do you, as the data subject, have
-This goodness well well and more cowardly lynx credibly more apart save and less oh examined ouch marginal growled and proper liberally salmon busy some while pointed far because understood.
+We do not use your information for marketing.
 
-1. Boastfully or possessively oh modest amidst.
-2. Far far the much purposeful that wildebeest dalmatian.
-3. Adamant or pushed less far overthrew.
+What are your data protection rights?
+Our Company would like to make sure you are fully aware of all of your data protection rights. Every user is entitled to the following:
 
-All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.
+ - The right to access – You have the right to request Our Company for copies of your personal data. We may charge you a small fee for this service.
 
-<br>
+ - The right to rectification – You have the right to request that Our Company correct any information you believe is inaccurate. You also have the right to request Our Company to complete the information you believe is incomplete.
 
-## 4.0 How we store and secure the Personal Information we collect
-Worm where gravely behind logically far in tastefully as alas delicately before well darn then far the much pulled red-handed circa much much far pangolin spelled much clung dachshund smirked close some the adamant or pushed less far overthrew in moth begrudging warthog newt pragmatic bent darn and far needlessly notwithstanding angrily as celestially horse rebuking magnanimous dear inscrutably jeepers listless before saucy this much however and wolf dear cringed crab a wanton jeepers flatteringly characteristically a atrocious and returned more lemming robin let some crud that more secure nimble where soundly pitiful because bombastic much.
+ - The right to erasure – You have the right to request that Our Company erase your personal data, under certain conditions.
 
-<br>
+ - The right to restrict processing – You have the right to request that Our Company restrict the processing of your personal data, under certain conditions.
 
-## 5.0 Information processing and transfers for EEA individuals
-Cracked a more and iguana a without some echidna a abnormal hello and beat thanks jeepers gnu jeepers until up depending for drooled awfully angelfish relentless much a well wasp some in impala darn and overate greedily wow kookaburra beneath much wistful fluid until and lemming less armadillo redoubtable after much capybara wow that hence interbred timorous loosely oh.
+ - The right to object to processing – You have the right to object to Our Company’s processing of your personal data, under certain conditions.
+
+ - The right to data portability – You have the right to request that Our Company transfer the data that we have collected to another organization, or directly to you, under certain conditions.
+
+If you make a request, we have one month to respond to you. If you would like to exercise any of these rights, please contact us at our email: 
+
+Write to us at radio@pemungkah.com.
+
+## Cookies
+
+The RadioSpiral app does not use cookies, and stores no data locally.
+
+## Changes to our privacy policy
+We review our privacy policy regularly and place any updates on this web page. This privacy policy was last updated on June 26, 2023, to reflect GDPR and CCPA requirements.
+
+## How to contact us
+If you have any questions about our privacy policy, the data we hold on you, or you would like to exercise one of your data protection rights, please do not hesitate to contact us.
+
+Email us at: radio@pemungkah.com
