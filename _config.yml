@@ -37,11 +37,11 @@ mastodon_link                             : https://sfba.social/@equinox_deschan
 features                                  :
     
   - title                                 : Always-on music
-    description                           : RadioSpiral.net broadcasts 24 hours a day, 7 days a week, with live shows wevery day
+    description                           : RadioSpiral.net broadcasts 24 hours a day, 7 days a week, with live shows every day
     fontawesome_icon_name                 : mobile
 
   - title                                 : Share your favorites
-    description                           : Easily what you're listening to, right from the app.
+    description                           : Easily share what you're listening to, right from the app.
     fontawesome_icon_name                 : link
 
 
